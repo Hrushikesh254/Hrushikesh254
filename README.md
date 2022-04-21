@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hrushikesh254
-- 👀 I’m interested in Full stack Development
+- 👀 I’m interested in Front End Developer
 - 🌱 I’m currently learning Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
